@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dohanpram
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning all the basics of computer science, data science, and bioinformatics, etc. because i've never studied about it :)
+- 🌱 I’m currently learning all the basics of computer science, data science, and bioinformatics, etc. :)
 - 📫 How to reach me email at: dohanpram@gmail.com
 
 <!---
